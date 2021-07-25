@@ -4,7 +4,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 1993,Rangers,6,2,4,0,7,5,2,8,0
 1993,Club Brugge,6,2,1,3,5,8,-3,5,0
 1993,CSKA Moscow,6,0,2,4,2,11,-9,2,0
-1993,IFK Göteborg,6,3,0,3,7,8,-1,6,0
+1993,IFK Goteborg,6,3,0,3,7,8,-1,6,0
 1993, Porto,6,2,1,3,5,5,0,5,0
 1993,PSV Eindhoven,6,0,1,5,4,13,-9,1,0
 1994, Spartak Moscow,6,1,3,2,6,12,-6,5,0
@@ -23,7 +23,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 1995,Anderlecht,6,0,4,2,4,7,-3,4,0
 1995,Casino Salzburg,6,1,3,2,4,6,-2,5,0
 1995,AEK Athens,6,0,2,4,3,9,-6,2,0
-1995,IFK Göteborg,8,4,3,1,12,9,3,9,0
+1995,IFK Goteborg,8,4,3,1,12,9,3,9,0
 1995,Barcelona,8,2,3,3,13,11,2,6,0
 1995,Paris Saint-Germain,10,7,1,2,15,6,9,12,0
 1995,Bayern Munich,10,2,5,3,12,14,-2,6,0
@@ -45,24 +45,23 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 1996,Rangers,6,0,3,3,6,14,-8,3,0
 1996,Ajax,11,8,2,1,22,3,19,16,0
 1996,Real Madrid,8,4,1,3,12,7,5,10,0
-1996,Ferencváros,6,1,2,3,9,19,-10,5,0
+1996,Ferencvaros,6,1,2,3,9,19,-10,5,0
 1996,Grasshopper,6,0,2,4,3,13,-10,2,0
 1997,Auxerre,8,4,0,4,9,11,-2,12,0
 1997,Ajax,10,5,1,4,14,13,1,12,0
 1997,Grasshopper,6,3,0,3,8,5,3,9,0
 1997,Rangers,6,1,0,5,5,13,-8,3,0
-1997,Atlético Madrid,8,4,2,2,15,8,7,13,0
+1997,Atletico Madrid,8,4,2,2,15,8,7,13,0
 1997,Borussia Dortmund,11,9,1,1,23,10,13,13,1
-1997,Widzew Lódz,6,1,1,4,6,10,-4,4,0
 1997,Steaua Bucure?ti,6,1,1,4,5,15,-10,4,0
 1997,Juventus,11,8,2,1,21,7,14,16,0
 1997,Manchester United,10,4,1,5,10,5,5,9,0
-1997,Fenerbahçe,6,2,1,3,3,6,-3,7,0
+1997,Ferencvaros,6,2,1,3,3,6,-3,7,0
 1997,Rapid Wien,6,0,2,4,2,12,-10,2,0
 1997,Porto,8,5,2,1,12,8,4,16,0
 1997,Rosenborg,8,3,1,4,8,14,-6,9,0
 1997,Milan,6,2,1,3,13,11,2,7,0
-1997,IFK Göteborg,6,1,0,5,7,13,-6,3,0
+1997,IFK Goteborg,6,1,0,5,7,13,-6,3,0
 1998,Borussia Dortmund,10,6,2,2,15,5,10,15,0
 1998,Parma,6,2,3,1,6,5,1,9,0
 1998,Sparta Prague,6,1,2,3,6,11,-5,5,0
@@ -70,7 +69,6 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 1998,Manchester United,8,5,2,1,15,6,9,15,0
 1998,Juventus,11,6,1,4,23,15,8,12,0
 1998,Feyenoord,6,3,0,3,8,10,-2,9,0
-1998,Košice,6,0,0,6,2,13,-11,0,0
 1998,Dynamo Kyiv,8,3,3,2,15,11,4,11,0
 1998,PSV Eindhoven,6,2,3,1,9,8,1,9,0
 1998,Newcastle United,6,2,1,3,7,8,-1,7,0
@@ -82,7 +80,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 1998,Bayern Munich,8,4,1,3,13,7,6,12,0
 1998,Paris Saint-Germain,6,4,0,2,11,10,1,12,0
 1998,Besiktas,6,2,0,4,6,9,-3,6,0
-1998,IFK Göteborg,6,2,0,4,4,9,-5,6,0
+1998,IFK Goteborg,6,2,0,4,4,9,-5,6,0
 1998,Monaco,10,5,3,2,20,15,5,13,0
 1998,Bayer Leverkusen,8,4,2,2,12,11,1,13,0
 1998,Sporting CP,6,2,1,3,9,11,-2,7,0
@@ -102,7 +100,6 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 1999,Bayern Munich,11,6,3,2,20,11,9,11,0
 1999,Manchester United,11,5,6,0,29,16,13,10,1
 1999,Barcelona,6,2,2,2,11,9,2,8,0
-1999,Brøndby,6,1,0,5,4,18,-14,3,0
 1999,Dynamo Kyiv,10,4,4,2,17,12,5,11,0
 1999,Arsenal,6,2,2,2,8,8,0,8,0
 1999,Lens,6,2,2,2,5,6,-1,8,0
@@ -131,7 +128,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2001,Manchester United,8,3,3,2,11,6,5,12,0
 2001,Sturm Graz,6,2,0,4,4,13,-9,6,0
 2001,Panathinaikos,6,0,2,4,4,10,-6,2,0
-2001,Deportivo La Coruña,8,4,1,3,12,10,2,10,0
+2001,Deportivo La Coruna,8,4,1,3,12,10,2,10,0
 2001,Galatasaray,8,4,1,3,9,11,-1,10,0
 2001,Milan,6,1,4,1,6,7,-1,7,0
 2001,Paris Saint-Germain,6,1,2,3,8,10,-2,5,0
@@ -156,7 +153,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2002,Sparta Prague,6,2,0,4,6,10,-4,6,0
 2002,Porto,6,1,1,4,3,7,-4,4,0
 2002,Bayer Leverkusen,11,4,3,4,19,19,0,10,0
-2002,Deportivo La Coruña,8,3,1,4,9,11,-1,10,0
+2002,Deportivo La Coruna,8,3,1,4,9,11,-1,10,0
 2002,Arsenal,6,2,1,3,8,8,0,7,0
 2002,Juventus,6,2,1,3,7,8,-1,7,0
 2003,Barcelona,8,5,2,1,14,5,9,16,0
@@ -174,7 +171,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2003,Manchester United,8,5,1,2,16,11,5,13,0
 2003,Juventus,11,4,3,4,18,16,2,7,0
 2003,Basel,6,2,1,3,5,10,-5,7,0
-2003,Deportivo La Coruña,6,2,1,3,7,8,-1,7,0
+2003,Deportivo La Coruna,6,2,1,3,7,8,-1,7,0
 2004,Lyon,10,5,2,3,11,11,0,10,0
 2004,Bayern Munich,8,2,4,2,7,7,0,9,0
 2004,Celtic,6,2,1,3,8,7,1,7,0
@@ -184,7 +181,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2004,Internazionale,6,2,2,2,8,11,-3,8,0
 2004,Dynamo Kyiv,6,2,1,3,8,8,0,7,0
 2004,Monaco,13,6,3,4,27,19,8,11,0
-2004,Deportivo La Coruña,12,6,2,4,19,17,2,10,0
+2004,Deportivo La Coruna,12,6,2,4,19,17,2,10,0
 2004,PSV Eindhoven,6,3,1,2,8,7,1,10,0
 2004,AEK Athens,6,0,2,4,1,11,-10,2,0
 2004,Juventus,8,4,1,3,15,8,7,13,0
@@ -210,7 +207,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2005,Monaco,8,4,0,4,10,7,3,12,0
 2005,Liverpool,13,7,4,2,18,10,8,10,1
 2005,Olympiacos,6,3,1,2,5,5,0,10,0
-2005,Deportivo La Coruña,6,0,2,4,0,9,-9,2,0
+2005,Deportivo La Coruna,6,0,2,4,0,9,-9,2,0
 2005,Bayer Leverkusen,8,3,2,3,15,13,2,11,0
 2005,Real Madrid,8,4,2,2,12,10,2,11,0
 2005,Dynamo Kyiv,6,3,1,2,11,8,3,10,0
@@ -221,7 +218,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2005,Maccabi Tel Aviv,6,1,1,4,4,12,-8,4,0
 2005,Lyon,10,6,3,1,29,12,17,13,0
 2005,Manchester United,8,3,2,3,14,11,3,11,0
-2005,Fenerbahçe,6,3,0,3,10,13,-3,9,0
+2005,Fenerbahce,6,3,0,3,10,13,-3,9,0
 2005,Sparta Prague,6,0,1,5,2,13,-11,1,0
 2005,Arsenal,8,3,4,1,13,9,4,10,0
 2005,PSV Eindhoven,12,6,3,3,14,12,2,10,0
@@ -258,7 +255,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2006,Milan,12,5,5,2,20,10,10,11,0
 2006,PSV Eindhoven,8,3,1,4,4,11,-7,10,0
 2006,Schalke 04,6,2,2,2,12,9,3,8,0
-2006,Fenerbahçe,6,1,1,4,7,14,-7,4,0
+2006,Fenerbahae,6,1,1,4,7,14,-7,4,0
 2006,Lyon,10,7,2,1,19,7,12,16,0
 2006,Real Madrid,8,3,2,3,10,9,1,10,0
 2006,Rosenborg,6,1,1,4,6,11,-5,4,0
@@ -306,7 +303,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2008,Porto,8,4,2,2,9,8,1,11,0
 2008,Liverpool,12,6,3,3,29,12,17,10,0
 2008,Marseille,6,2,1,3,6,9,-3,7,0
-2008,Be?ikta?,6,2,0,4,4,15,-11,6,0
+2008,Betiktas,6,2,0,4,4,15,-11,6,0
 2008,Chelsea,12,6,6,1,20,8,12,12,0
 2008,Schalke 04,10,5,2,3,6,7,-1,8,0
 2008,Rosenborg,6,2,1,3,6,10,-4,7,0
@@ -328,7 +325,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2008,Sporting CP,6,2,1,3,9,8,1,7,0
 2008,Dynamo Kyiv,6,0,0,6,4,19,-15,0,0
 2008,Internazionale,8,5,0,3,12,7,5,15,0
-2008,Fenerbahçe,10,5,2,3,15,14,1,11,0
+2008,Fenerbahce,10,5,2,3,15,14,1,11,0
 2008,PSV Eindhoven,6,2,1,3,3,6,-3,7,0
 2008,CSKA Moscow,6,0,1,5,7,14,-7,1,0
 2008,Sevilla,8,6,0,2,19,12,5,15,0
@@ -348,7 +345,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2009,Shakhtar Donetsk,6,3,0,3,11,7,4,9,0
 2009,Basel,6,0,1,5,2,16,-14,1,0
 2009,Liverpool,10,6,3,1,21,12,9,14,0
-2009,Atlético Madrid,8,3,5,0,11,6,5,12,0
+2009,Atletico Madrid,8,3,5,0,11,6,5,12,0
 2009,Marseille,6,1,1,4,5,7,-2,4,0
 2009,PSV,6,1,0,5,5,14,-9,3,0
 2009,Manchester United,13,6,6,1,18,8,10,10,0
@@ -362,11 +359,11 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2009,Porto,10,4,3,3,13,13,0,12,0
 2009,Arsenal,12,5,3,4,17,11,6,11,0
 2009,Dynamo Kyiv,6,2,2,2,4,4,0,8,0
-2009,Fenerbahçe,6,0,2,4,4,11,-7,2,0
+2009,Fenerbahce,6,0,2,4,4,11,-7,2,0
 2009,Juventus,8,3,4,1,9,6,3,12,0
 2009,Real Madrid,8,4,0,4,9,10,-1,12,0
 2009,Zenit Saint Petersburg,6,1,2,3,4,7,-3,5,0
-2009, BATE Borisov,6,0,3,3,3,8,-5,3,0
+2009,BATE Borisov,6,0,3,3,3,8,-5,3,0
 2010,Bordeaux,10,8,1,1,14,6,8,16,0
 2010,Bayern Munich,13,7,1,5,21,15,6,10,0
 2010,Juventus,6,2,2,2,4,7,-3,8,0
@@ -374,14 +371,14 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2010,Manchester United,10,7,1,2,21,12,9,13,0
 2010,CSKA Moscow,10,4,2,4,13,14,-1,10,0
 2010,Wolfsburg,6,2,1,3,9,8,1,7,0
-2010,Be?ikta?,6,1,1,4,3,8,-5,4,0
+2010,Betiktas,6,1,1,4,3,8,-5,4,0
 2010,Real Madrid,8,4,2,2,16,9,7,13,0
 2010,Milan,8,2,3,3,10,14,-4,9,0
 2010,Marseille,6,2,1,3,10,10,0,7,0
-2010,Zürich,6,1,1,4,5,14,-9,4,0
+2010,Zurich,6,1,1,4,5,14,-9,4,0
 2010,Chelsea,8,4,2,2,12,7,5,14,0
 2010,Porto,8,5,0,3,10,9,1,12,0
-2010,Atlético Madrid,6,0,3,3,3,12,-9,3,0
+2010,Atletico Madrid,6,0,3,3,3,12,-9,3,0
 2010,APOEL,6,0,3,3,4,7,-3,3,0
 2010,Fiorentina,8,6,0,2,18,11,7,15,0
 2010,Lyon,12,6,2,4,17,10,7,13,0
@@ -397,7 +394,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2010,Rangers,6,0,2,4,4,13,-9,2,0
 2010,Arsenal,10,5,2,3,21,13,8,13,0
 2010,Olympiacos,8,3,1,4,5,8,-3,10,0
-2010,Standard Liège,6,1,2,3,7,9,-2,5,0
+2010,Standard Liege,6,1,2,3,7,9,-2,5,0
 2010,AZ,6,0,4,2,4,8,-4,4,0
 2011,Tottenham Hotspur,10,4,3,3,19,16,3,11,0
 2011,Internazionale,10,4,1,5,18,21,3,10,0
@@ -422,7 +419,6 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2011,Chelsea,10,6,1,3,17,7,10,15,0
 2011,Marseille,8,4,1,3,13,5,8,1,0
 2011,Spartak Moscow,6,3,0,3,7,10,-3,9,0
-2011,Žilina,6,0,0,6,3,19,-16,0,0
 2011,Real Madrid,12,8,3,1,25,6,19,16,0
 2011,Milan,8,2,3,3,7,8,-1,8,0
 2011,Ajax,6,2,1,3,6,10,-4,7,0
@@ -471,7 +467,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2013,Arsenal,8,4,1,3,13,11,2,10,0
 2013,Olympiacos,6,3,0,3,9,9,0,9,0
 2013,Montpellier,6,0,2,4,6,12,-6,2,0
-2013,Málaga,10,4,4,2,17,9,8,12,0
+2013,Malaga,10,4,4,2,17,9,8,12,0
 2013,Milan,8,3,2,3,9,10,-1,8,0
 2013,Zenit Saint Petersburg,6,2,1,3,6,9,-3,7,0
 2013,Anderlecht,6,1,2,3,4,9,-5,5,0
@@ -482,7 +478,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2013,Juventus,10,5,3,2,17,8,9,12,0
 2013,Shakhtar Donetsk,8,3,2,3,14,13,1,10,0
 2013,Chelsea,6,3,1,2,16,10,6,10,0
-2013,Nordsjælland,6,0,1,5,4,22,-18,1,0
+2013,Nordsjaelland,6,0,1,5,4,22,-18,1,0
 2013,Bayern Munich,13,10,1,2,31,11,20,13,1
 2013,Valencia,8,4,2,2,14,8,6,13,0
 2013,BATE Borisov,6,2,0,4,9,15,-6,6,0
@@ -519,7 +515,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2014,Arsenal,8,4,1,3,9,8,1,12,0
 2014,Napoli,6,4,0,2,10,9,1,12,0
 2014,Marseille,6,0,0,6,5,14,-9,0,0
-2014,Atlético Madrid,13,9,3,1,26,10,16,16,0
+2014,Atletico Madrid,13,9,3,1,26,10,16,16,0
 2014,Zenit Saint Petersburg,8,2,3,3,9,14,-5,6,0
 2014,Porto,6,1,2,3,4,7,-3,5,0
 2014,Austria Wien,6,1,2,3,5,10,-5,5,0
@@ -527,10 +523,9 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2014,Milan,8,2,3,3,9,10,-1,9,0
 2014,Ajax,6,2,2,2,5,8,-3,8,0
 2014,Celtic,6,1,0,5,3,14,-11,3,0
-2015,Atlético Madrid,10,5,2,3,15,5,11,13,0
+2015,Atletico Madrid,10,5,2,3,15,5,11,13,0
 2015,Juventus,13,7,3,3,17,10,7,10,0
 2015,Olympiacos,6,3,0,3,10,13,-3,9,0
-2015,Malmö FF,6,1,0,5,4,15,-11,3,0
 2015,Real Madrid,12,8,2,2,24,9,15,18,0
 2015,Basel,8,2,2,4,8,13,-5,7,0
 2015,Liverpool,6,1,2,3,5,9,-4,5,0
@@ -562,19 +557,18 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2016,Real Madrid,13,9,3,1,28,6,22,16,1
 2016,Paris Saint-Germain,10,6,2,2,18,6,12,13,0
 2016,Shakhtar Donetsk,6,1,0,5,7,14,-7,3,0
-2016,Malmö FF,6,1,0,5,1,21,-20,3,0
 2016,Wolfsburg,10,7,1,2,15,11,4,12,0
 2016,PSV Eindhoven,8,3,3,2,8,7,1,10,0
 2016,Manchester United,6,2,2,2,7,7,0,8,0
 2016,CSKA Moscow,6,1,1,4,5,9,-4,4,0
-2016,Atlético Madrid,8,4,3,1,11,3,8,13,0
+2016,Atletico Madrid,8,4,3,1,11,3,8,13,0
 2016,Benfica,10,5,2,3,15,12,3,10,0
 2016,Galatasaray,6,1,2,3,6,10,-4,5,0
 2016,Astana,6,0,4,2,5,11,-6,4,0
 2016,Manchester City,12,6,3,3,18,12,6,12,0
 2016,Juventus,8,3,3,2,10,9,1,11,0
 2016,Sevilla,6,2,0,4,8,11,-3,6,0
-2016,Borussia Mönchengladbach,6,1,2,3,8,12,-4,5,0
+2016,Borussia Monchengladbach,6,1,2,3,8,12,-4,5,0
 2016,Barcelona,10,7,2,1,22,8,14,14,0
 2016,Roma,8,1,3,4,11,20,-9,6,0
 2016,Bayer Leverkusen,6,1,3,2,13,12,1,6,0
@@ -601,9 +595,9 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2017,Dynamo Kyiv,6,1,2,3,8,6,2,5,0
 2017,Barcelona,10,7,1,2,26,12,14,15,0
 2017,Manchester City,8,3,3,2,18,16,2,9,0
-2017,Borussia Mönchengladbach,6,1,2,3,5,12,-7,5,0
+2017,Borussia Monchengladbach,6,1,2,3,5,12,-7,5,0
 2017,Celtic,6,0,3,3,5,16,-11,3,0
-2017,Atlético Madrid,12,8,2,2,15,9,6,15,0
+2017,Atletico Madrid,12,8,2,2,15,9,6,15,0
 2017,Bayern Munich,10,6,0,4,27,14,13,12,0
 2017,Rostov,6,1,2,3,6,12,-6,5,0
 2017,PSV Eindhoven,6,0,2,4,4,11,-7,2,0
@@ -633,7 +627,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2018,Anderlecht,6,1,0,5,2,17,-15,3,0
 2018,Roma,12,6,2,4,21,19,2,11,0
 2018,Chelsea,8,3,3,2,17,12,5,11,0
-2018,Atlético Madrid,6,1,4,1,5,4,1,7,0
+2018,Atletico Madrid,6,1,4,1,5,4,1,7,0
 2018,Qaraba?,6,0,2,4,2,14,-12,2,0
 2018,Barcelona,10,6,3,1,17,5,12,14,0
 2018,Juventus,10,5,3,2,17,12,2,11,0
@@ -656,7 +650,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2018,Borussia Dortmund,6,0,2,4,7,13,-6,2,0
 2018,APOEL,6,0,2,4,2,17,-15,2,0
 2019,Borussia Dortmund,8,4,1,3,10,6,4,13,0
-2019,Atlético Madrid,8,5,1,2,11,9,2,13,0
+2019,Atletico Madrid,8,5,1,2,11,9,2,13,0
 2019,Club Brugge,6,1,3,2,6,5,1,6,0
 2019,Monaco,6,0,1,5,2,14,-12,1,0
 2019,Barcelona,12,8,3,1,26,9,17,14,0
@@ -687,7 +681,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2019,Manchester United,10,4,2,4,10,11,-1,10,0
 2019,Valencia,6,2,2,2,6,6,0,8,0
 2019,Young Boys,6,1,1,4,4,12,-8,4,0
-2020,Paris Saint-Germain,11,8,1,1,25,6,21,16,1
+2020,Paris Saint-Germain,11,8,1,1,25,6,21,16,0
 2020,Real Madrid,8,3,2,3,16,12,4,11,0
 2020,Club Brugge,6,0,3,3,4,12,-8,3,0
 2020,Galatasaray,6,0,2,4,1,14,-13,2,0
@@ -700,7 +694,7 @@ year,team,match_played,wins,draws,losts,goals_scored,goals_conceded,gd,group_poi
 2020,Shakhtar Donetsk,6,1,3,2,8,13,-5,6,0
 2020,Dinamo Zagreb,6,1,2,3,10,13,-3,5,0
 2020,Juventus,8,6,1,1,14,6,8,16,0
-2020,Atlético Madrid,9,5,1,3,13,8,5,10,0
+2020,Atletico Madrid,9,5,1,3,13,8,5,10,0
 2020,Bayer Leverkusen,6,2,0,4,5,9,-4,6,0
 2020,Lokomotiv Moscow,6,1,0,5,4,11,-7,3,0
 2020,Liverpool,8,4,1,3,15,12,3,13,0
