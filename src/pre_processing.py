@@ -6,13 +6,15 @@ df.drop(['year', 'team'], axis = 1, inplace = True)
 
 # new features
 df['win_match_ratio'] = (df['wins'] + 1)/ df['match_played']
+df['gs_match_ratio'] = (df['goals_scored'] + 1)/ df['match_played']
+df['gc_match_ratio'] = (df['goals_conceded'] + 1)/ df['match_played']
 df['win_gs_ratio'] = (df['wins'] + 1)/(df['goals_scored'] + 1)
 df['win_lost_ratio'] = (df['wins'] + 1)/(df['losts'] + 1)
 df['gs_gc'] = (df['goals_scored'] - df['goals_conceded']) + 0.1
 df['wins_draws_ratio'] = (df['wins'] +  1) / (df['draws'] + 1)
 df['gs_gd'] = (df['goals_scored'] + 1) + (df['gd'])
 
-print(df.win_lost_ratio.describe())
+#print(df.win_lost_ratio.describe())
 
 #finding important features
 correlation = df.corr()
