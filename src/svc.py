@@ -1,7 +1,11 @@
 from pre_processing import *
 from sklearn import svm
 
-svc_clf = svm.SVC(random_state = 7)
+
+svc_clf = svm.SVC(C = 233.57214690901213,
+                  degree = 2,
+                  kernel = 'rbf',
+                  random_state = 7)
 svc_clf.fit(x_train, y_train)
 print(svc_clf.score(x_test, y_test))
 

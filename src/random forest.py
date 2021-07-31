@@ -1,7 +1,7 @@
 from pre_processing import *
 from sklearn.ensemble import RandomForestClassifier
 
-# parameters were taken by randomizedcvsearch
+# parameters were taken by randomizedsearchcv
 rand_clf = RandomForestClassifier(n_estimators=1000,
                                  min_samples_split = 4,
                                  min_samples_leaf = 1,
