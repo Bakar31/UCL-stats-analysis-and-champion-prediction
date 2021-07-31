@@ -1,7 +1,7 @@
 from pre_processing import *
 from sklearn import svm
 
-
+# parameter tuned by gridsearchcv
 svc_clf = svm.SVC(C = 233.57214690901213,
                   degree = 2,
                   kernel = 'rbf',
