@@ -10,3 +10,6 @@ was champion or not in that year. `1 = champion`, `0 = not champion`.</p>
 <b>My Approch:</b> The dataset was pretty straight forward. Didn't need much preprocessing. 
 I have done a broad analysis with <i>pandas</i>, <i>seaborn</i>, <i>Matplotlib</i>. Several classifiers were used to create 
 the model. 
+
+### Analysis Sample Figures:
+![alt text]()
