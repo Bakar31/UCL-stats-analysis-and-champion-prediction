@@ -12,6 +12,7 @@ I have done a broad analysis with <i>pandas</i>, <i>seaborn</i>, <i>Matplotlib</
 the model. 
 
 ### Analysis Sample Figures:
+![alt text](https://github.com/Bakar31/UCL-stats-analysis-and-champion-prediction/blob/master/imges/output.png)
 ![alt text](https://github.com/Bakar31/UCL-stats-analysis-and-champion-prediction/blob/master/imges/output-1.png)
 ![alt text](https://github.com/Bakar31/UCL-stats-analysis-and-champion-prediction/blob/master/imges/output-2.png)
 ![alt text](https://github.com/Bakar31/UCL-stats-analysis-and-champion-prediction/blob/master/imges/output-3.png)
